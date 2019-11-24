@@ -1,67 +1,21 @@
 {
-  "name": "react-webpack",
+  "name": "cv",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "clean": "rimraf build",
-    "build": "npm run clean && webpack --mode production",
-    "dev": "webpack-dev-server --mode development"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamthainb/cv.git"
+  },
+  "author": "phamthainb",
   "license": "ISC",
-  "dependencies": {
-    "@aspnet/signalr": "^1.1.4",
-    "aos": "^2.3.4",
-    "axios": "^0.19.0",
-    "bootstrap": "^3.4.1",
-    "extract-text-webpack-plugin": "^3.0.2",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
-    "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
-    "popper.js": "^1.15.0",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-device-detect": "^1.7.5",
-    "react-dom": "^16.8.6",
-    "react-facebook-login": "^4.1.1",
-    "react-lazy-load-image-component": "^1.3.2",
-    "react-masonry-component": "^6.2.1",
-    "react-redux": "^7.1.0",
-    "react-router-dom": "^5.0.1",
-    "react-slick": "^0.25.2",
-    "react-transition-group": "^4.2.2",
-    "redux": "^4.0.1",
-    "redux-form": "^8.2.6",
-    "redux-thunk": "^2.3.0",
-    "slick-carousel": "^1.8.1"
+  "bugs": {
+    "url": "https://github.com/phamthainb/cv/issues"
   },
-  "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/polyfill": "^7.4.4",
-    "@babel/preset-env": "^7.5.5",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.5",
-    "clean-webpack-plugin": "^3.0.0",
-    "css-loader": "^3.0.0",
-    "cssnano": "^4.1.10",
-    "file-loader": "^4.0.0",
-    "html-webpack-plugin": "^3.2.0",
-    "less": "^3.9.0",
-    "less-loader": "^5.0.0",
-    "mini-css-extract-plugin": "^0.8.0",
-    "optimize-css-assets-webpack-plugin": "^5.0.3",
-    "progress-bar-webpack-plugin": "^1.12.1",
-    "react-helmet": "^5.2.1",
-    "react-masonry-layout": "^0.4.0",
-    "rimraf": "^3.0.0",
-    "style-loader": "^0.23.1",
-    "uglifyjs-webpack-plugin": "^2.2.0",
-    "url-loader": "^2.1.0",
-    "webpack": "^4.35.2",
-    "webpack-cli": "^3.3.5",
-    "webpack-dev-server": "^3.7.2"
-  }
+  "homepage": "https://github.com/phamthainb/cv"
 }
