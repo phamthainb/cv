@@ -1,0 +1,1 @@
+export const LOAD_FOOTER_ALL = "layout/footer/loadallfooter";
