@@ -1,0 +1,34 @@
+{
+  "informations": {
+    "name": "Phạm Hồng Thái",
+    "nickname": "@phamthainb",
+    "birthday": "19/07/2000",
+    "sex": "Nam",
+    "email": "phamthai4643@gmail.com",
+    "blog": "https://phamthainb.github.io",
+    "phone": "0339073774",
+    "facebook": "fb.com/phamthainb",
+    "address": "Hà Đông, Hà Nội"
+  },
+  "education": [
+    {
+      "time": "8/2018 - Nay",
+      "name": "HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG",
+      "position": "Sinh Viên",
+      "major": "Công nghệ thông tin"
+    }
+  ],
+  "work-experience": [
+    { "time": "1/2018 - 7/2018", "name": "Tự học lập trình web" },
+    {
+      "time": "7/2018 - 3/2019",
+      "name": "Thực tập sinh tại ByteSoft Việt Nam"
+    },
+    {
+      "time": "3/2019 - Nay",
+      "name": "Cộng tác viên Part-Time tại ByteSoft Việt Nam"
+    }
+  ],
+  "skills": {},
+  "projects": { "work-project": [], "personal-project": [] }
+}
